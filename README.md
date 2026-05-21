@@ -28,13 +28,16 @@ Most of my work sits between product engineering, React Native performance, back
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### what i'm building
 
 - **CVFinder WinMatch** - AI pipeline processing 7,000+ CVs with LLM extraction and analysis
 - **Propertips by iad** - real estate consulting and referral mobile app with analytics tracking
 - **Wafa Win App** - promotional QR registration app with secure Laravel APIs
-- **AI automations** - LLM integrations, smart extraction, workflow automation, and internal tools
+- **AI automations** - OpenAI, Claude, Gemini, smart extraction, agents, workflow automation, and internal tools
 - **Mobile systems** - React Native apps with deep links, push notifications, analytics, and performance work
 
 ### stats
@@ -42,7 +45,7 @@ Most of my work sits between product engineering, React Native performance, back
 <p>
   <img src="https://img.shields.io/badge/Focus-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React Native focus" />
   <img src="https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel backend" />
-  <img src="https://img.shields.io/badge/AI-Automation-111111?style=for-the-badge&logo=openai&logoColor=white" alt="AI automation" />
+  <img src="https://img.shields.io/badge/AI-Agents%20%26%20Automation-111111?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents and automation" />
 </p>
 
 <p>
