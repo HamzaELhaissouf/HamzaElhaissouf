@@ -40,12 +40,9 @@ Most of my work sits between product engineering, React Native performance, back
 ### stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HamzaELhaissouf&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Hamza's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=HamzaELhaissouf&theme=github-dark-blue&hide_border=true" alt="Hamza's GitHub streak" />
-</p>
-
-<p>
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaELhaissouf&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Hamza's top languages" />
+  <img src="https://img.shields.io/badge/Focus-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React Native focus" />
+  <img src="https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel backend" />
+  <img src="https://img.shields.io/badge/AI-Automation-111111?style=for-the-badge&logo=openai&logoColor=white" alt="AI automation" />
 </p>
 
 <p>
